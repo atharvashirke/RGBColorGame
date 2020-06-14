@@ -16,6 +16,10 @@ body {
 	background-color: black;
 }
 
+#palette {
+	margin-bottom: 40px;
+}
+
 .square {
 	margin-top: 50px;
 	padding-bottom: 90%;
