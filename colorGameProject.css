@@ -1,0 +1,31 @@
+#heading {
+	text-align: center;
+	background-color: #40f5c8;
+	color: white;
+	padding: 20px;
+}
+
+#settings {
+	background-color: white;
+	text-align: center;
+	padding-top: 5px;
+}
+
+body {
+	background-color: black;
+}
+
+.square {
+	margin-top: 50px;
+	padding-bottom: 90%;
+	width: 90%;
+}
+
+.tried {
+	opacity: 0;
+}
+
+.invisible {
+	height: 0px;
+	width: 0px;
+}
