@@ -3,6 +3,7 @@
 	background-color: #40f5c8;
 	color: white;
 	padding: 20px;
+	transition: all 1.5s;
 }
 
 #settings {
@@ -19,6 +20,7 @@ body {
 	margin-top: 50px;
 	padding-bottom: 90%;
 	width: 90%;
+	transition: all 1.5s;
 }
 
 .tried {
@@ -28,4 +30,9 @@ body {
 .invisible {
 	height: 0px;
 	width: 0px;
+}
+
+.setting:hover {
+	background-color: black;
+	color: white;
 }
